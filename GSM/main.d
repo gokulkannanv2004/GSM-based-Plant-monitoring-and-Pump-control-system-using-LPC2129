@@ -1,9 +1,0 @@
-main.o: main.c
-main.o: C:\Users\acer\AppData\Local\Keil_v5\ARM\Inc\Philips\lpc21xx.h
-main.o: C:\Users\acer\AppData\Local\Keil_v5\ARM\RV31\Inc\string.h
-main.o: delayheader.h
-main.o: uart_header.h
-main.o: gsm_header.h
-main.o: lcdheader.h
-main.o: Motor.h
-main.o: Motor.c
